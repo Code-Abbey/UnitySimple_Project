@@ -1,0 +1,3 @@
+# Unity editor layout files use the .wlt extension, which GitHub Linguist
+# otherwise classifies as Wolfram Language. Exclude them from language stats.
+*.wlt linguist-detectable=false
